@@ -20,7 +20,8 @@ The notes are structured in Markdown (`.md`) and organized in thematic folders. 
 
 The idea is to reflect, document, and apply what I learn — whether through LinkedIn posts, career planning, or sharing with other professionals on similar journeys.
 
-🔗 Conecte-se comigo  |  Let's connect
+### 🔗 Conecte-se comigo! |  Let's connect!
 
-LinkedIn • GitHub
+LinkedIn [/camilacelestino](https://www.linkedin.com/in/camilacelestino) | GitHub [/ccelesti](https://github.com/ccelesti) 
+
 
