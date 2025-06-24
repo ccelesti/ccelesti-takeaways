@@ -1,0 +1,17 @@
+# System files (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode editor settings
+.vscode/
+
+# Temporary or backup files
+*.bak
+*.tmp
+*~
+
+# Node/Python (if used later)
+node_modules/
+__pycache__/
+*.pyc
